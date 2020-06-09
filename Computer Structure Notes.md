@@ -1303,3 +1303,21 @@ cache地址：valid | tag ｜offset
 
 # 七、数据级并发性
 
+
+
+## 阵列机
+
+![](./pics/DLP/1.png)
+
+![](./pics/DLP/2.png)
+
+![](./pics/DLP/3.png)
+
+![](./pics/DLP/4.png)
+
+![](./pics/DLP/5.png)
+
+![](./pics/DLP/6.png)
+
+## 脉动阵列机
+
