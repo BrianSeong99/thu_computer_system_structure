@@ -758,6 +758,82 @@ cache地址：valid | tag ｜offset
   </tr>
 </table>
 
+### Tomasulo Example
+
+<table>
+	<tr>
+		<td>
+			<img src="./pics/Advance Pipeline/45.png" />
+		</td>
+		<td>
+			<img src="./pics/Advance Pipeline/46.png" />
+		</td>
+		<td>
+			<img src="./pics/Advance Pipeline/47.png" />
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<img src="./pics/Advance Pipeline/48.png" />
+		</td>
+		<td>
+			<img src="./pics/Advance Pipeline/49.png" />
+		</td>
+		<td>
+			<img src="./pics/Advance Pipeline/50.png" />
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<img src="./pics/Advance Pipeline/51.png" />
+		</td>
+		<td>
+			<img src="./pics/Advance Pipeline/52.png" />
+		</td>
+		<td>
+			<img src="./pics/Advance Pipeline/53.png" />
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<img src="./pics/Advance Pipeline/54.png" />
+		</td>
+		<td>
+			<img src="./pics/Advance Pipeline/55.png" />
+		</td>
+		<td>
+			<img src="./pics/Advance Pipeline/56.png" />
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<img src="./pics/Advance Pipeline/57.png" />
+		</td>
+		<td>
+			<img src="./pics/Advance Pipeline/58.png" />
+		</td>
+		<td>
+			<img src="./pics/Advance Pipeline/59.png" />
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<img src="./pics/Advance Pipeline/60.png" />
+		</td>
+		<td>
+			<img src="./pics/Advance Pipeline/61.png" />
+		</td>
+		<td>
+			<img src="./pics/Advance Pipeline/62.png" />
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<img src="./pics/Advance Pipeline/63.png" />
+		</td>
+	</tr>
+</table>
+
 
 
 ### Tomasulo with ROB
