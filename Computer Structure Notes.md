@@ -1321,3 +1321,35 @@ cache地址：valid | tag ｜offset
 
 ## 脉动阵列机
 
+<table>
+	<tr>
+		<td>
+			<img src="./pics/DLP/7.png" style="zoom:70%;"/>
+		</td>
+		<td>
+			<img src="./pics/DLP/8.png" style="zoom:120%;"/>
+		</td>
+	</tr>
+  <tr>
+		<td>
+			<img src="./pics/DLP/9.png" />
+		</td>
+		<td>
+			<img src="./pics/DLP/10.png" />
+		</td>
+	</tr>
+  <tr>
+		<td>
+			<img src="./pics/DLP/11.png" />
+		</td>
+		<td>
+			<img src="./pics/DLP/12.png" />
+		</td>
+	</tr>
+  <tr>
+		<td>
+			<img src="./pics/DLP/13.png" />
+		</td>
+	</tr>
+</table>
+
